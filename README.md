@@ -18,3 +18,6 @@
 * Phalcon 3.4.2 build for PHP 7.0.X
 * Phalcon 3.4.2 build for PHP 5.6.X
 * Phalcon 3.4.2 build for PHP 5.5.X
+
+## Author
+* **Johan SALTUTTI**
